@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cookies-recipes/static/css/main.bb57f017.chunk.css",
-    "main.js": "/cookies-recipes/static/js/main.b068b356.chunk.js",
-    "main.js.map": "/cookies-recipes/static/js/main.b068b356.chunk.js.map",
+    "main.js": "/cookies-recipes/static/js/main.baaf3a9b.chunk.js",
+    "main.js.map": "/cookies-recipes/static/js/main.baaf3a9b.chunk.js.map",
     "runtime-main.js": "/cookies-recipes/static/js/runtime-main.1913b5c7.js",
     "runtime-main.js.map": "/cookies-recipes/static/js/runtime-main.1913b5c7.js.map",
     "static/js/2.4f76d0fa.chunk.js": "/cookies-recipes/static/js/2.4f76d0fa.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1913b5c7.js",
     "static/js/2.4f76d0fa.chunk.js",
     "static/css/main.bb57f017.chunk.css",
-    "static/js/main.b068b356.chunk.js"
+    "static/js/main.baaf3a9b.chunk.js"
   ]
 }
